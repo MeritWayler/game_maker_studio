@@ -14,7 +14,7 @@
     <object>objects\obj_spaceship</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\rm_game</room>
+    <room>rooms\rm_space</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

@@ -8,7 +8,7 @@
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
-    <event eventtype="5" enumb="37">
+    <event eventtype="5" enumb="39">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -26,6 +26,8 @@
           <argument>
             <kind>1</kind>
             <string>image_angle = image_angle + 2;
+var x = 5;
+x = 6;
 </string>
           </argument>
         </arguments>
