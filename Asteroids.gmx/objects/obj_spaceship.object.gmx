@@ -26,7 +26,8 @@
           <argument>
             <kind>1</kind>
             <string>image_angle = image_angle + 2;
-var x = 5;
+y =10;
+var x = 5 +y;
 </string>
           </argument>
         </arguments>
